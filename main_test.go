@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/YaroslavPodorvanov/golang-struct-to-elastic-mapping/generator"
+	"github.com/EgeBalci/golang-struct-to-elastic-mapping/generator"
 
 	"github.com/stretchr/testify/require"
 )

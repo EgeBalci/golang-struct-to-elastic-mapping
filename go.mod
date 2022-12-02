@@ -3,7 +3,6 @@ module github.com/EgeBalci/golang-struct-to-elastic-mapping
 go 1.19
 
 require (
-	github.com/YaroslavPodorvanov/golang-struct-to-elastic-mapping v0.0.0-20220624004253-f9bb0a2866c2
 	github.com/stretchr/testify v1.8.1
 )
 
