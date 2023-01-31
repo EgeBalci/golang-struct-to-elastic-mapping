@@ -1,5 +1,3 @@
-github.com/YaroslavPodorvanov/golang-struct-to-elastic-mapping v0.0.0-20220624004253-f9bb0a2866c2 h1:Oo9Xk0spVpM32P9gue8WR/dtTEf5xsrTmdHj7FGfHXQ=
-github.com/YaroslavPodorvanov/golang-struct-to-elastic-mapping v0.0.0-20220624004253-f9bb0a2866c2/go.mod h1:Ynjjf3KpvRXhazf4giLAAafdAUG3qUpRT7Ep16bLF1s=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
